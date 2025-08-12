@@ -168,7 +168,7 @@ _User can rate the recommended movie_
 - Piyush Dwivedi
 - Harshit Jain
 - Aarya Agarwal
-- Satvik Pareek
+- Suyash Bilmore
 - Arani Ghosh
 
 ---
